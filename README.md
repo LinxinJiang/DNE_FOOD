@@ -1,4 +1,5 @@
 # DNE_FOOD
+https://linxinjiang.github.io/DNE_FOOD/
 
 ## Inspiration
 According to USDA:" food waste is estimated at between 30-40 percent of the food supply. This estimate, based on estimates from USDA's Economic Research Service of 31 percent food loss at the retail and consumer levels". What really shocked me was this is data back to 2010. 
